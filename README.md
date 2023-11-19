@@ -10,7 +10,7 @@
 _30분 단위 메시지 전송  및 전송 시간 제한 코드_<br/>
 <br/>
 
-`
+```
 def job():
 
     now = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
@@ -19,7 +19,8 @@ def job():
 
     asyncio.run(bot.sendMessage(chat_id=public_chat_name, text="30분에 한번씩 알림 보내는 중 !"))
 
-schedule.every(30).minutes.do(job)`
+schedule.every(30).minutes.do(job)
+```
 <br/>
 <br/>
 <br/>
