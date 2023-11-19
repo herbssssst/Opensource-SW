@@ -7,10 +7,11 @@
 <br/>
 <br/>
 <br/>
-_30분 단위 메시지 전송 코드 및 전송 시간 제한_<br/>
+_30분 단위 메시지 전송  및 전송 시간 제한 코드_<br/>
 <br/>
 
-`def job():
+`
+def job():
 
     now = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
     #if now.hour >= 23 or now.hour <= 6:
