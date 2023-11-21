@@ -1,4 +1,4 @@
-# SW-OpenSource-Telegram-Bot
+# OpenSource-SW-Telegram-Bot
 
 
 **2023-2오픈소스 SW 실습 강의 2번째 과제 (텔레그램 봇)** <br/>
@@ -28,5 +28,7 @@ async def schedule_jobs():
 <br/>
 <br/>
 <br/>
+
 **실행 결과**<br/>
-(실행 결과 이미지)
+![Uploading telegram.png…]()
+
