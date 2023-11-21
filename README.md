@@ -30,5 +30,6 @@ async def schedule_jobs():
 <br/>
 
 **실행 결과**<br/>
-![Uploading telegram.png…]()
+<img width="581" alt="telegram" src="https://github.com/herbssssst/SW-OpenSource-Telegram-Bot/assets/98319466/dcc77f93-3a32-4abf-baca-0e44944ee96e">
+
 
