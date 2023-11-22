@@ -29,10 +29,10 @@ Mask_RCNN/model/balloon/datasets
                        /logs
 ```
 <br/>
-❗ 아래 파일을 다운받아 Mask_RCNN 폴더에 저장❗ <br/>
+**❗ 아래 파일을 다운받아 Mask_RCNN 폴더에 저장❗** <br/>
 https://github.com/matterport/Mask_RCNN/releases/download/v2.1/mask_rcnn_balloon.h5
-<br/>
-❗ 아 파일을 다운받아 Mask_RCNN/model/balloon/datasets 폴더에 저장❗<br/>
+<br/><br/>
+**❗ 아 파일을 다운받아 Mask_RCNN/model/balloon/datasets 폴더에 저장❗**<br/>
 https://github.com/matterport/Mask_RCNN/releases/download/v2.1/balloon_dataset.zip 
 
 
