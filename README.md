@@ -1,6 +1,4 @@
-# Mask R-CNN for Object Detection and Segmentation
-
-## 2023-2 오픈소스 SW 실습 강의 1번째 과제 (MAskRCNN Balloon)
+# 2023-2 오픈소스 SW 실습 강의 1번째 과제 (MAskRCNN Balloon)
 📢 Anaconda를 이용한 환경 구축 <br/>
 📢 공식 Github의 Baloon 예제 Train / Test 적용 <br/>
 
@@ -30,13 +28,11 @@ Mask_RCNN/model/balloon/datasets
 ```
 <br/>
 ❗ 아래 파일을 다운받아 Mask_RCNN 폴더에 저장❗ <br/>
-```
 https://github.com/matterport/Mask_RCNN/releases/download/v2.1/mask_rcnn_balloon.h5
-```
+<br/>
 ❗ 아 파일을 다운받아 Mask_RCNN/model/balloon/datasets 폴더에 저장❗<br/>
-```
 https://github.com/matterport/Mask_RCNN/releases/download/v2.1/balloon_dataset.zip 
-```
+
 
 <br/><br/>
 
@@ -49,4 +45,11 @@ python balloon.py --dataset ../../model/balloon/datasets --weights ../../mask_rc
 
 ## 3. 결과
 ❗ train 예제❗<br/>
+![train1](https://github.com/herbssssst/OpenSource-SW-Telegram-Bot/assets/98319466/d756635b-32d1-4c07-9dcd-39dd7296ff9d)
+![train2](https://github.com/herbssssst/OpenSource-SW-Telegram-Bot/assets/98319466/11726609-abb1-4207-8285-2e1dbfcda82d)
+
+<br/>
+
 ❗ var 예제❗<br/>
+![var1](https://github.com/herbssssst/OpenSource-SW-Telegram-Bot/assets/98319466/ba24f33d-95f6-4547-a63e-0dec1c5cf05d)
+![var2](https://github.com/herbssssst/OpenSource-SW-Telegram-Bot/assets/98319466/4205945e-11c5-4813-a80a-a9577794bf4b)
