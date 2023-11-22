@@ -1,4 +1,6 @@
-# 2023-2 오픈소스 SW 실습 강의 1번째 과제 (MAskRCNN Balloon)
+# Mask R-CNN for Object Detection and Segmentation
+
+### 2023-2 오픈소스 SW 실습 강의 1번째 과제 (MaskRCNN Balloon)
 📢 Anaconda를 이용한 환경 구축 <br/>
 📢 공식 Github의 Baloon 예제 Train / Test 적용 <br/>
 
