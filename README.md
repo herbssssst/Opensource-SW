@@ -55,7 +55,7 @@ python balloon.py --dataset ../../model/balloon/datasets --weights ../../mask_rc
 <br/>
 
 **❗ var 예제❗**<br/>
-![var1](https://github.com/herbssssst/OpenSource-SW-Telegram-Bot/assets/98319466/ba24f33d-95f6-4547-a63e-0dec1c5cf05d)
+![var1](https://github.com/herbssssst/OpenSource-SW-Telegram-Bot/assets/98319466/f4b88257-a5a2-4f8d-ac1b-5fa14d7394b9)
 ![var2](https://github.com/herbssssst/OpenSource-SW-Telegram-Bot/assets/98319466/4205945e-11c5-4813-a80a-a9577794bf4b)
 
 <br/><br/><br/>
