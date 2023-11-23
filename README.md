@@ -51,7 +51,7 @@ python balloon.py --dataset ../../model/balloon/datasets --weights ../../mask_rc
 python balloon.py train --dataset ../../model/balloon/datasets --weights=coco
 ```
 ```
-python balloon.py --dataset ../../model/balloon/datasets --weights ../...Mask_RCNN/logs/mask_rcnn_balloon_01.h5
+python balloon.py --dataset ../../model/balloon/datasets --weights ../../logs/mask_rcnn_balloon_01.h5
 --image <이미지 상대 경로> splash
 ```
 
