@@ -33,7 +33,7 @@ Mask_RCNN/model/balloon/datasets
 **❗ 아래 가중치 파일을 다운 받아 Mask_RCNN 폴더로 이동 ❗**<br/>
 https://github.com/matterport/Mask_RCNN/releases/download/v2.1/mask_rcnn_balloon.h5
 
-<br/><br/>
+<br/>
 **❗ 아래 데이터셋 파일을 다운 받아 Mask_RCNN/model/ballon/datesets 폴더로 이동 ❗**<br/>
 https://github.com/matterport/Mask_RCNN/releases/download/v2.1/balloon_dataset.zip 
 
@@ -54,6 +54,8 @@ python ballon.py train --dataset ../../model/balloon/datasets --weights=coco
 python balloon.py --dataset ../../model/balloon/datasets --weights ../../mask_rcnn_balloon_01.h5
 --image <이미지 상대 경로> splash
 ```
+
+<br/><br/>
 
 ## 3. 결과
 ### 3.1 train 예제
