@@ -51,7 +51,7 @@ python balloon.py --dataset ../../model/balloon/datasets --weights ../../mask_rc
 python balloon.py train --dataset ../../model/balloon/datasets --weights=coco
 ```
 
-<img width="1280" alt="스크린샷 2023-11-23 212700" src="https://github.com/herbssssst/OpenSource-SW-Telegram-Bot/assets/98319466/2f9db0d9-e773-417a-9bf8-ee044144a79c">
+<img width="1280" alt="스크린샷 2023-11-23 212700" src="https://github.com/herbssssst/OpenSource-SW-Telegram-Bot/assets/98319466/2f9db0d9-e773-417a-9bf8-ee044144a79c"> <br/>
 
 ```
 python balloon.py --dataset ../../model/balloon/datasets --weights ../../logs/mask_rcnn_balloon_01.h5
