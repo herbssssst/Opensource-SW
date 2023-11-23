@@ -3,10 +3,10 @@ import asyncio
 import pytz
 import datetime
 
-token = "6444123553:AAF2S-JS4Yywqj6Tlm5duo9ndzX0gGLhYFM"
+token = "TELEGRAM_BOT_TOKEN"
 bot = telegram.Bot(token = token)
 
-public_chat_name = "@osproject_test"
+public_chat_name = "CHANNEL_ID"
 
 async def job():
     now = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
