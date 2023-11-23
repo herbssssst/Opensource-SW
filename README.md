@@ -9,8 +9,8 @@
 ## 1. 환경 구축
 ### 1.1 Anaconda 가상환경 생성 (python 3.7)
 ```
-conda create -n tf115 python==3.7
-conda activate tf115
+conda create -n MaskRCNN python==3.7
+conda activate MaskRCNN
 ```
 ### 1.2 git clone
 ```
@@ -51,7 +51,7 @@ python balloon.py --dataset ../../model/balloon/datasets --weights ../../mask_rc
 python balloon.py train --dataset ../../model/balloon/datasets --weights=coco
 ```
 ```
-python balloon.py --dataset ../../model/balloon/datasets --weights ../../mask_rcnn_balloon_01.h5
+python balloon.py --dataset ../../model/balloon/datasets --weights ../...Mask_RCNN/logs/mask_rcnn_balloon_01.h5
 --image <이미지 상대 경로> splash
 ```
 
