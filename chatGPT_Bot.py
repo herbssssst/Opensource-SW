@@ -1,10 +1,7 @@
 import telebot
 
 # 텔레그램 봇 토큰
-bot_token = "6444123553:AAF2S-JS4Yywqj6Tlm5duo9ndzX0gGLhYFM"
-
-# 채널 ID
-#channel_id = "@osproject_test"
+bot_token = "TELEGRAM_BOT_TOKEN"
 
 # 봇 인스턴스 생성
 bot = telebot.TeleBot(bot_token)
