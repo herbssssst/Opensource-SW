@@ -48,7 +48,7 @@ python balloon.py --dataset ../../model/balloon/datasets --weights ../../mask_rc
 ```
 ### 2.2 samples/balloon 폴더로 이동하여 아래 명령어 실행 - 가중치 파일을 생성하여 실행하는 방법
 ```
-python ballon.py train --dataset ../../model/balloon/datasets --weights=coco
+python balloon.py train --dataset ../../model/balloon/datasets --weights=coco
 ```
 ```
 python balloon.py --dataset ../../model/balloon/datasets --weights ../../mask_rcnn_balloon_01.h5
