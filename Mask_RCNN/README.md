@@ -62,14 +62,14 @@ python balloon.py --dataset ../../model/balloon/datasets --weights ../../logs/ma
 
 ## 3. 결과
 ### 3.1 train 예제
-![train1](https://github.com/herbssssst/OpenSource-SW-Telegram-Bot/assets/98319466/d756635b-32d1-4c07-9dcd-39dd7296ff9d)
-![train2](https://github.com/herbssssst/OpenSource-SW-Telegram-Bot/assets/98319466/11726609-abb1-4207-8285-2e1dbfcda82d)
+![train1](https://github.com/herbssssst/Opensource-SW/assets/98319466/d756635b-32d1-4c07-9dcd-39dd7296ff9d)
+![train2](https://github.com/herbssssst/Opensource-SW/assets/98319466/11726609-abb1-4207-8285-2e1dbfcda82d)
 
 <br/>
 
 ### 3.2 var 예제
-![var1](https://github.com/herbssssst/OpenSource-SW-Telegram-Bot/assets/98319466/f4b88257-a5a2-4f8d-ac1b-5fa14d7394b9)
-![var2](https://github.com/herbssssst/OpenSource-SW-Telegram-Bot/assets/98319466/4205945e-11c5-4813-a80a-a9577794bf4b)
+![var1](https://github.com/herbssssst/Opensource-SW/assets/98319466/f4b88257-a5a2-4f8d-ac1b-5fa14d7394b9)
+![var2](https://github.com/herbssssst/Opensource-SW/assets/98319466/4205945e-11c5-4813-a80a-a9577794bf4b)
 
 <br/><br/><br/>
 
